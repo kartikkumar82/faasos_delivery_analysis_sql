@@ -1,5 +1,7 @@
 # 🍕 Faasos Delivery Project Analysis (SQL) - Day 7
 
+<img src = 'image.jpeg' />
+
 This project is part of my **"7 Days, 7 SQL Projects"** challenge, where I built one SQL-based data analysis project every day for a week.  
 On **Day 7**, I analyzed Faasos delivery order data to extract insights about order trends, delivery performance, and customer behavior.
 
