@@ -549,7 +549,6 @@ Day 6 – Mentor Dataset Analysis
 
 Day 7 – Faasos Delivery Analysis ✅
 
----
 
 ## 🚀 How to Run
 Download the SQL script from this repository.
@@ -558,13 +557,11 @@ Load it into a SQL environment (PostgreSQL recommended).
 
 Run the script to create tables, insert data, and execute queries.
 
----
 
 ## 📌 Project Goal
 To practice advanced SQL analytics by simulating a real-world food delivery business scenario and answering complex business queries.
 
 
----
 
 ## Author - Kartik Kumar
 LinkedIn: www.linkedin.com/in/kartikkumar82
