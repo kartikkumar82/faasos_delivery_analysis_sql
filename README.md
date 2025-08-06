@@ -162,17 +162,6 @@ values (1,101,1,'','','01-01-2021  18:05:02'),
 
 ## 📊 Sample Query
 
-### 1️ Successful Orders by Driver
-```sql
-SELECT
-    driver_id,
-    COUNT(DISTINCT order_id) AS successful_orders
-FROM driver_order
-WHERE cancellation NOT IN ('Cancellation', 'Customer Cancellation')
-GROUP BY driver_id;
-
-```
-
 ### 1. how many rolls where ordered?
 ```sql
 SELECT 
@@ -542,6 +531,44 @@ from driver_order) AS a
 GROUP BY 1
 ORDER BY 1;
 ```
+
+---
+
+## 📅 Challenge Progress
+Day 1 – Online Bookstore Management System
+
+Day 2 – Netflix Analysis
+
+Day 3 – Spotify Data Analysis
+
+Day 4 – Ola Ride Data Analysis
+
+Day 5 – Walmart Sales Data Analysis
+
+Day 6 – Mentor Dataset Analysis 
+
+Day 7 – Faasos Delivery Analysis ✅
+
+---
+
+## 🚀 How to Run
+Download the SQL script from this repository.
+
+Load it into a SQL environment (PostgreSQL recommended).
+
+Run the script to create tables, insert data, and execute queries.
+
+---
+
+## 📌 Project Goal
+To practice advanced SQL analytics by simulating a real-world food delivery business scenario and answering complex business queries.
+
+
+---
+
+## Author - Kartik Kumar
+LinkedIn: www.linkedin.com/in/kartikkumar82
+Email - kartikkumar1800089@gmail.com
 
 
 
