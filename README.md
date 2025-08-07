@@ -563,7 +563,8 @@ To practice advanced SQL analytics by simulating a real-world food delivery busi
 
 
 
-## Author - Kartik Kumar
+## Contact to me 
+### Author - Kartik Kumar
 LinkedIn: www.linkedin.com/in/kartikkumar82
 Email - kartikkumar1800089@gmail.com
 
